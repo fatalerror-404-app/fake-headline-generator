@@ -118,6 +118,6 @@ These are ideas for future versions and are **not currently implemented**:
 **Inam Ur Rehman**
 
 -   GitHub:
-    [@YOUR-GITHUB-USERNAME](https://github.com/fatalerror-404-app)
+    [@fatalerror-404-app](https://github.com/fatalerror-404-app)
 
 
